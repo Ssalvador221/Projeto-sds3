@@ -1,6 +1,4 @@
-import ImgDsDark from "assets/css/img/ds_dark.svg";
-
-
+import ImgDsDark from "assets/img/ds_dark.svg";
 
 const Navbar = () => {
     return (
